@@ -1,0 +1,23 @@
+{
+  "name": "jukespot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "htmlparser2": "^3.9.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moplat/jukespot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/moplat/jukespot/issues"
+  },
+  "homepage": "https://github.com/moplat/jukespot#readme",
+  "description": ""
+}
